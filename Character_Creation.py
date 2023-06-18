@@ -5,7 +5,7 @@ to generate an image based on the provided details. The resulting image URL is p
 import openai 
 import os
 
-openai.api_key = "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"
+openai.api_key = "sk-"
 print("Describe you Charater: ")
 
 race = input("Enter the Race of your character: ")
